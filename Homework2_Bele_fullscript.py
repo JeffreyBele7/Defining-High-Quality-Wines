@@ -1,11 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 28 13:01:33 2025
-
-@author: jcbele
-"""
-
+# import the necessary libraries
 import pandas as pd
 import numpy as np
 import seaborn as sns
